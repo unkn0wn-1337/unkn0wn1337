@@ -20,17 +20,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/318961981300146176" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCrN6WsroZlEgMCTMg93e3tQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  [![Discord](https://img.shields.io/badge/Discord-unkn0wn-5865F2?logo=discord&logoColor=white)](https://discord.com/users/318961981300146176)
+  [![YouTube](https://img.shields.io/badge/YouTube-Kanal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrN6WsroZlEgMCTMg93e3tQ)
 </div>
 
 ###
