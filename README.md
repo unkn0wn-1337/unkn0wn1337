@@ -27,8 +27,12 @@
 ###
 
 <div align="center">
-  [![Discord](https://img.shields.io/badge/Discord-unkn0wn-5865F2?logo=discord&logoColor=white)](https://discord.com/users/318961981300146176)
-  [![YouTube](https://img.shields.io/badge/YouTube-Kanal-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrN6WsroZlEgMCTMg93e3tQ)
+  <a href="https://discord.com/users/318961981300146176" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-unkn0wn-5865F2?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCrN6WsroZlEgMCTMg93e3tQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Kanal-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </div>
 
 ###
